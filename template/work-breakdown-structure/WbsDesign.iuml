@@ -27,25 +27,25 @@ SOFTWARE.
 skinparam shadowing false
 <style>
 wbsDiagram {
-  ' 全体設定
+  ' common setting
   LineColor #A2A6B1
     node {
-    ' level1. 最終目標部のスタイル設定
+    ' level1. style setting of final product
     :depth(0) {
       BackgroundColor #203864
       FontColor White
     }
-    ' level2. 成果物のスタイル設定
+    ' level2. style setting deliverables
     :depth(1) {
       BackgroundColor #2F5596
       FontColor White
     }
-    ' level3. 要素成果物(ワークパッケージ)のスタイル設定
+    ' level3. style setting of work packages
     :depth(2) {
       BackgroundColor #4473C5
       FontColor White
     }
-    ' level4. 活動・作業(アクティビティ)のスタイル設定
+    ' level4. style setting for activities
     :depth(3) {
       BackgroundColor #DAE3F4
     }
