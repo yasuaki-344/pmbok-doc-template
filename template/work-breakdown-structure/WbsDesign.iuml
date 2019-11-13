@@ -1,6 +1,6 @@
 /'
-WorkBreakdownStructure.puml
-Template for WBS diagram.
+WbsDesign.iml
+This file defines the design of WBS diagram which is created by PlantUML.
 
 MIT License
 
@@ -24,25 +24,31 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 '/
-@startwbs WorkBreakdownStructure
-!include ../WbsDesign.iuml
-/'
-以下のような構成で記述すること
-+ 最終目標
-++ 1. 成果物
-+++ 1.1 要素成果物(ワークパッケージ)
-++++ 1.1.1 活動・作業(アクティビティ)
-++++ 1.1.2 活動・作業(アクティビティ)
-+++ 1.2 要素成果物(ワークパッケージ)
-++++ 1.2.1 活動・作業(アクティビティ)
-++++ 1.2.2 活動・作業(アクティビティ)
-++ 2. 成果物
-+++ 2.1 要素成果物(ワークパッケージ)
-++++ 2.1.1 活動・作業(アクティビティ)
-++++ 2.1.2 活動・作業(アクティビティ)
-'/
-+ 最終目標
-++ 1. 成果物
-+++ 1.1 要素成果物(ワークパッケージ)
-++++ 1.1.1 活動・作業(アクティビティ)
-@endwbs
+skinparam shadowing false
+<style>
+wbsDiagram {
+  ' 全体設定
+  LineColor #A2A6B1
+    node {
+    ' level1. 最終目標部のスタイル設定
+    :depth(0) {
+      BackgroundColor #203864
+      FontColor White
+    }
+    ' level2. 成果物のスタイル設定
+    :depth(1) {
+      BackgroundColor #2F5596
+      FontColor White
+    }
+    ' level3. 要素成果物(ワークパッケージ)のスタイル設定
+    :depth(2) {
+      BackgroundColor #4473C5
+      FontColor White
+    }
+    ' level4. 活動・作業(アクティビティ)のスタイル設定
+    :depth(3) {
+      BackgroundColor #DAE3F4
+    }
+  }
+}
+</style>
