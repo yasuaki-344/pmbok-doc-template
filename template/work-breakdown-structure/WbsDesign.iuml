@@ -29,7 +29,7 @@ skinparam shadowing false
 wbsDiagram {
   ' common setting
   LineColor #A2A6B1
-    node {
+  node {
     ' level1. style setting of final product
     :depth(0) {
       BackgroundColor #203864
