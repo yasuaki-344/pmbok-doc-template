@@ -37,6 +37,20 @@ the project and the due date of each deliverables.
 |--------|:------:|
 |        |        |
 
+## 主要マイルストーン/スケジュール
+
+<!--
+Provides an estimated schedule of all high-level project milestones.
+Keeps in mind that the schedule will change as the project moves forward and
+the tasks and milestones and their associated requirements are more clearly
+defined.
+-->
+
+| マイルストーン   | 完了予定日  | 成果物               |
+|:---------------|:-----------|:---------------------|
+| プロジェクト開始 | YYYY/MM/DD | プロジェクト計画書    |
+| プロジェクト完了 | YYYY/MM/DD | プロジェクト終結報告書 |
+
 ## プロジェクトマネージャー
 
 <!--
