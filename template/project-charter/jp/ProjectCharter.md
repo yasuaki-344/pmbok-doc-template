@@ -23,6 +23,16 @@ see http://opensource.org/licenses/mit-license.php
 
 # プロジェクト憲章
 
+## ビジネスニーズ
+
+<!--
+This section provides the background information and general statements
+regarding the project’s purpose or justification.
+-->
+
+プロジェクトを立ち上げる理由となる「市場または組織内で解決が求められる問題や課題の内容」
+をここに記述する.
+
 ## プロジェクト概要
 
 ## プロジェクト成果物
