@@ -22,3 +22,16 @@ see http://opensource.org/licenses/mit-license.php
 -->
 
 # プロジェクト憲章
+
+## プロジェクトマネージャー
+
+<!--
+Provides explicit information on who is assigned as the PM,
+their responsibility, and authority level.
+-->
+
+## 承認
+
+| 氏名        | 署名        | 日付          |
+|:------------|-------------|:------------:|
+|             |             |              |
