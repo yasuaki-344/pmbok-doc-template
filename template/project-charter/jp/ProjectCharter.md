@@ -23,6 +23,20 @@ see http://opensource.org/licenses/mit-license.php
 
 # プロジェクト憲章
 
+## プロジェクト概要
+
+## プロジェクト成果物
+
+<!--
+This section should list all of the deliverables that the customer,
+project sponsor, or stakeholders require upon the successful completion of
+the project and the due date of each deliverables.
+-->
+
+| 成果物  | 期日   |
+|--------|:------:|
+|        |        |
+
 ## プロジェクトマネージャー
 
 <!--
