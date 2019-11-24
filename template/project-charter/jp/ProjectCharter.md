@@ -35,7 +35,7 @@ regarding the project’s purpose or justification.
 
 ## プロジェクト概要
 
-## プロジェクト成果物
+## プロジェクト成果物と納期
 
 <!--
 This section should list all of the deliverables that the customer,
@@ -43,9 +43,12 @@ project sponsor, or stakeholders require upon the successful completion of
 the project and the due date of each deliverables.
 -->
 
-| 成果物  | 期日   |
-|--------|:------:|
-|        |        |
+本プロジェクトにより生み出される成果物はなにか
+
+| 成果物  | 納品期日   |
+|--------|:----------:|
+|        |            |
+
 
 ## 主要マイルストーン/スケジュール
 
