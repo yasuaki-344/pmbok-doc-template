@@ -1,6 +1,6 @@
 # pmbok-doc-template
 
-This project provides the template document based on markdown format.
+This project provides the template document based on markdown or plantuml format.
 
 ## Template
 
@@ -8,7 +8,8 @@ This project provides the template document based on markdown format.
 
 ### Requirement specifications
 
-Provides the markdown format for expressing the relationship between specifications and requirements. This format is created based on Universal Specification Describing Manner (USDM).
+Provides the markdown format for expressing the relationship between specifications and requirements.
+This format is created based on Universal Specification Describing Manner (USDM).
 If you want to know the details of USDM, please see [this](https://www.jreast.co.jp/e/development/tech/pdf_33/tec-33-33-36eng.pdf).
 
 ### Project scope statement
