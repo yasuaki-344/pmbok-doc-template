@@ -86,6 +86,15 @@ defined.
 | プロジェクト開始 | YYYY/MM/DD | プロジェクト計画書    |
 | プロジェクト完了 | YYYY/MM/DD | プロジェクト終結報告書 |
 
+## 主要リスク
+
+<!--
+Describes the risks associated with project implementation,
+including financial, reputational, operational, and regulatory/compliance risks.
+-->
+
+- プロジェクトで発生する可能性がある主要な不確実性（脅威, 好機）を箇条書きで記述
+
 ## プロジェクトマネージャー
 
 <!--
