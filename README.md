@@ -8,7 +8,9 @@ This project provides the template document based on markdown format.
 
 ### Requirement specifications
 
-### Wok breakdown structure
+### Project scope statement
+
+### Work breakdown structure
 
 ## Execution check environment
 
