@@ -20,7 +20,7 @@ see http://opensource.org/licenses/mit-license.php
 
 ## 前提条件
 
-## 成約条件
+## 制約条件
 
 ## 除外事項(Out of Scope)
 
