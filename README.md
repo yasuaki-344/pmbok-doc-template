@@ -24,6 +24,10 @@ If you want to know the details of USDM, please see [this](https://www.jreast.co
 
 ### Work breakdown structure
 
+This template provides the plantuml format for expressing a deliverable-oriented
+hierarchical decomposition of the work to accomplish the project objectives
+and create the required deliverables.
+
 ## Execution check environment
 
 * [Visual Studio Code](https://code.visualstudio.com/)
