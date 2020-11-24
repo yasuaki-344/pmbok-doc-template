@@ -1,7 +1,7 @@
 ---
 puppeteer:
     headerTemplate: '<div style="width:100%; text-align:right; border-bottom: 1pt solid #eeeeee; margin: -10px 20px 10px; font-size: 8pt;">YOUR HEADER</div>'
-    footerTemplate: '<div style="width:100%; position: relative; border-top: 1pt solid #eeeeee; margin: 20px 20px 5px; 
+    footerTemplate: '<div style="width:100%; position: relative; border-top: 1pt solid #eeeeee; margin: 20px 20px 5px;
     font-size: 8pt"><div style="position: absolute; width: 100%; top: 4px; text-align: center;"><span class="pageNumber"></span> / <span class="totalPages"></span></div><div style="position: absolute; right: 0; top: 4px;">YOUR FOOTER</div></div>'
     displayHeaderFooter: true
     margin:
@@ -57,7 +57,7 @@ This includes resources and processes that should not need to be expressly
 requested during the project, such as governing policies and procedures.
 -->
 
-- プロジェクト成功のために必要で, 発生確度が高いものを記載
+* プロジェクト成功のために必要で, 発生確度が高いものを記載
 
 ## 制約条件
 
@@ -65,12 +65,12 @@ requested during the project, such as governing policies and procedures.
 Detail the restrictions or limitations that will impact implementation of the project, with regard to people, money, time, or equipment.
 -->
 
-- 資金に関する制限条件
-- 人財に関する制限条件
-- 時間に関する制限条件
-- 情報に関する制限条件
-- 組織内部の制限条件
-- 顧客の制限条件
+* 資金に関する制限条件
+* 人財に関する制限条件
+* 時間に関する制限条件
+* 情報に関する制限条件
+* 組織内部の制限条件
+* 顧客の制限条件
 
 ## 主要マイルストーン/スケジュール
 
@@ -93,7 +93,7 @@ Describes the risks associated with project implementation,
 including financial, reputational, operational, and regulatory/compliance risks.
 -->
 
-- プロジェクトで発生する可能性がある主要な不確実性（脅威, 好機）を箇条書きで記述
+* プロジェクトで発生する可能性がある主要な不確実性（脅威, 好機）を箇条書きで記述
 
 ## プロジェクトマネージャー
 
