@@ -6,6 +6,14 @@ This project provides the template document based on markdown or plantuml format
 
 ### Project charter
 
+Project charter provides a preliminary delineation of roles and
+responsibilities, outlines the project's key goals, identifies
+the main stakeholders, and defines the authority of the project manager.
+This template describes the contents so as to contain the essence of
+the project, provide a shared understanding of the project,
+and act as a contract between the project sponsor, key stakeholders
+and the project team.
+
 ### Requirement specifications
 
 Provides the markdown format for expressing the relationship between specifications and requirements.
