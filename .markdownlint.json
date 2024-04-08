@@ -1,60 +1,70 @@
 {
-  "MD001": true,
-  "MD003": {
+  "heading-increment": true,
+  "heading-style": {
     "style": "atx"
   },
-  "MD004": {
+  "ul-style": {
     "style": "dash"
   },
-  "MD005": true,
-  "MD007": {
+  "list-indent": true,
+  "ul-indent": {
     "indent": 2,
     "start_indent": 2,
     "start_indented": false
   },
-  "MD009": {
+  "no-trailing-spaces": {
     "br_spaces": 2,
     "list_item_empty_lines": false,
     "strict": false
   },
-  "MD010": {
+  "no-hard-tabs": {
     "code_blocks": true,
     "ignore_code_languages": [],
     "spaces_per_tab": 1
   },
-  "MD011": true,
-  "MD012": true,
-  "MD013": false,
-  "MD014": true,
-  "MD018": true,
-  "MD019": true,
-  "MD020": true,
-  "MD021": true,
-  "MD022": {
+  "no-reversed-links": true,
+  "no-multiple-blanks": true,
+  "line-length": false,
+  "commands-show-output": true,
+  "no-missing-space-atx": true,
+  "no-multiple-space-atx": true,
+  "no-missing-space-closed-atx": true,
+  "no-multiple-space-closed-atx": true,
+  "blanks-around-headings": {
     "lines_above": 1,
     "lines_below": 1
   },
-  "MD023": true,
-  "MD024": {
+  "heading-start-left": true,
+  "no-duplicate-heading": {
     "siblings_only": true
   },
-  "MD025": {
+  "single-h1": {
     "front_matter_title": "^\\s*title\\s*[:=]",
     "level": 1
   },
-  "MD026": {
+  "no-trailing-punctuation": {
     "punctuation": ".,;:!。，；：！"
   },
-
-  "MD027": true,
-  "MD028": true,
-  "MD029": true,
-  "MD030": true,
-  "MD031": true,
-  "MD032": true,
-  "MD033": true,
-  "MD034": true,
-  "MD035": true,
+  "no-multiple-space-blockquote": true,
+  "no-blanks-blockquote": true,
+  "ol-prefix": {
+    "style": "one"
+  },
+  "list-marker-space": {
+    "ol_multi": 1,
+    "ol_single": 1,
+    "ul_multi": 1,
+    "ul_single": 1
+  },
+  "blanks-around-fences": {
+    "list_items": true
+  },
+  "blanks-around-lists": true,
+  "no-inline-html": false,
+  "no-bare-urls": true,
+  "hr-style": {
+    "style": "consistent"
+  },
   "MD036": true,
   "MD037": true,
   "MD038": true,
