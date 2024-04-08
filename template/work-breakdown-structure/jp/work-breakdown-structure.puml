@@ -1,14 +1,5 @@
-/'
-WorkBreakdownStructure.puml
-Template for WBS diagram.
-
-Copyright (c) 2019 yasuaki-miyoshi
-
-Released under the MIT license.
-see http://opensource.org/licenses/mit-license.php
-'/
 @startwbs WorkBreakdownStructure
-!include ../WbsDesign.iuml
+!include ../wbs-design.iuml
 /'
 以下のような構成で記述すること
 + 最終目標
