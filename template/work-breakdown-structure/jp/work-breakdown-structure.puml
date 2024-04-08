@@ -1,5 +1,5 @@
 @startwbs WorkBreakdownStructure
-!include ../WbsDesign.iuml
+!include ../wbs-design.iuml
 /'
 以下のような構成で記述すること
 + 最終目標
