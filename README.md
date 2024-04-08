@@ -32,6 +32,6 @@ and create the required deliverables.
 
 ## Execution check environment
 
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
-* [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
