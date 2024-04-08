@@ -1,13 +1,3 @@
-<!--
-DevelopmentQuotation.md
-Provides the template for project charter written in markdown.
-
-Copyright (c) 2019 yasuaki-miyoshi
-
-Released under the MIT license.
-see http://opensource.org/licenses/mit-license.php
--->
-
 # 開発見積書
 
 ## 前提条件

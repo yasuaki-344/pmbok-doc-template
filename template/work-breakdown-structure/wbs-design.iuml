@@ -1,12 +1,3 @@
-/'
-WbsDesign.iml
-This file defines the design of WBS diagram which is created by PlantUML.
-
-Copyright (c) 2019 yasuaki-miyoshi
-
-Released under the MIT license.
-see http://opensource.org/licenses/mit-license.php
-'/
 skinparam shadowing false
 <style>
 wbsDiagram {
